@@ -4,7 +4,7 @@
 ---
 
 <h1 id="tic-tac-toe">Tic Tac Toe</h1>
-<p>This is a password generator program. It will ask you your desired combination and will give you an Strong password.</p>
+<p>This is a usual TIC TAC TOE game. We used to play on paper in childhood. Just its Virtual Edition.</p>
 <h1 id="prerequisties">Prerequisties</h1>
 <p>Software you would need.</p>
 <ol>
